@@ -1,0 +1,740 @@
+INFO:root:[INFO][2014-11-26 23:35:03.071943]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-26 23:35:03.072559]mapping table updated -- new key '['Jaylene3', 'Weihan3']' added to mapping table from server#3
+INFO:root:[info][2014-11-26 23:35:03.072908]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-26 23:35:03.073065]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-26 23:35:03.110100]:Server #3 Started.
+INFO:root:[INFO][2014-11-26 23:36:03.758880]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:36:03.759033]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:36:03.759801]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:36:03.760014]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:36:03.948604]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:36:03.948755]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:36:03.948869]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:36:03.948946]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:42:09.565732]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:42:09.565871]Request coming from Client:
+INFO:root:[info][2014-11-26 23:42:09.566657]mapping table updated -- new key '[u'person5']' added to mapping table from server#3
+INFO:root:[info][2014-11-26 23:42:09.567418]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-26 23:42:09.567655]Server responding -->  Key/Value Pair {person5/number5} has been added to DB
+INFO:root:[INFO][2014-11-26 23:42:09.568068]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:42:09.818407]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:42:09.818604]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:42:09.818776]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:42:09.818873]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:42:36.564521]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:42:36.564662]Request coming from Client:
+INFO:root:[info][2014-11-26 23:42:36.565032]mapping table updated -- new key '[u'person4']' added to mapping table from server#3
+INFO:root:[info][2014-11-26 23:42:36.565473]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-26 23:42:36.565690]Server responding -->  Key/Value Pair {person4/number4} has been added to DB
+INFO:root:[INFO][2014-11-26 23:42:36.565896]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:42:36.736366]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:42:36.736499]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:42:36.736613]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-26 23:42:36.736693]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:42:37.073873]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:42:37.074009]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:42:37.074297]Server responding -->  The value of KEY "person5" is number5
+INFO:root:[INFO][2014-11-26 23:42:37.074426]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:45:04.310630]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:45:04.310780]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:45:04.310936]Server responding -->  The value of KEY "Weihan3" is 2065197252
+INFO:root:[INFO][2014-11-26 23:45:04.311030]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:45:59.103839]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:45:59.104009]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:45:59.104239]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan1': u'server1', 'Weihan3': 'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', 'Jaylene3': 'server3', u'Jaylene1': u'server1', u'Jaylene5': u'server5', u'person4': 'server3', u'person5': 'server3'}
+INFO:root:[INFO][2014-11-26 23:45:59.104322]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:50:14.482363]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:50:14.482508]Request coming from Client:
+INFO:root:[WARNING][2014-11-26 23:50:14.482987]: mapping table contains key -- '[u'person4']' that does not exist on local DB server#3. Deleted it.
+INFO:root:[info][2014-11-26 23:50:14.483408]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-26 23:50:14.483641]Server responding -->  Key/Value Pair of KEY {person4} has been purged from DB
+INFO:root:[INFO][2014-11-26 23:50:14.483851]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:50:30.000364]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:50:30.000524]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:50:30.000666]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan1': u'server1', 'Weihan3': 'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', 'Jaylene3': 'server3', u'Jaylene1': u'server1', u'Jaylene5': u'server5', u'person5': 'server3'}
+INFO:root:[INFO][2014-11-26 23:50:30.000748]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:53:25.118080]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:53:25.118225]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:53:25.118364]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan1': u'server1', 'Weihan3': 'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', 'Jaylene3': 'server3', u'Jaylene1': u'server1', u'Jaylene5': u'server5', u'person5': 'server3'}
+INFO:root:[INFO][2014-11-26 23:53:25.118444]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:53:28.039114]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:53:28.039270]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:53:28.039430]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan1': u'server1', 'Weihan3': 'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', 'Jaylene3': 'server3', u'Jaylene1': u'server1', u'Jaylene5': u'server5', u'person5': 'server3'}
+INFO:root:[INFO][2014-11-26 23:53:28.039513]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:53:29.518516]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:53:29.518668]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:53:29.518810]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan1': u'server1', 'Weihan3': 'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', 'Jaylene3': 'server3', u'Jaylene1': u'server1', u'Jaylene5': u'server5', u'person5': 'server3'}
+INFO:root:[INFO][2014-11-26 23:53:29.518889]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:53:52.660691]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:53:52.660837]Request coming from Client:
+INFO:root:[WARNING][2014-11-26 23:53:52.661208]: mapping table contains key -- '[u'person5']' that does not exist on local DB server#3. Deleted it.
+INFO:root:[info][2014-11-26 23:53:52.661613]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-26 23:53:52.661843]Server responding -->  Key/Value Pair of KEY {person5} has been purged from DB
+INFO:root:[INFO][2014-11-26 23:53:52.662108]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-26 23:53:57.513653]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-26 23:53:57.513827]Request coming from Client:
+INFO:root:[INFO][2014-11-26 23:53:57.514005]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan1': u'server1', 'Weihan3': 'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', 'Jaylene3': 'server3', u'Jaylene1': u'server1', u'Jaylene5': u'server5'}
+INFO:root:[INFO][2014-11-26 23:53:57.514108]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:10:25.429094]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-27 00:10:25.429521]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[info][2014-11-27 00:10:25.429845]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-27 00:10:25.430025]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-27 00:10:25.465621]:Server #3 Started.
+INFO:root:[INFO][2014-11-27 00:10:39.290665]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:10:39.290841]Request coming from Client:
+INFO:root:[info][2014-11-27 00:10:39.291846]mapping table updated -- new key '[u'person5']' added to mapping table from server#3
+INFO:root:[info][2014-11-27 00:10:39.292594]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 00:10:39.292807]Server responding -->  Key/Value Pair {person5/number5} has been added to DB
+INFO:root:[INFO][2014-11-27 00:10:39.293221]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:10:39.971044]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:10:39.971181]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:10:39.971451]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:10:39.971536]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:11.153150]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:11.153293]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:11.153406]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:11.153486]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:14.292864]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:14.293021]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:14.293165]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:14.293273]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:14.851076]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:14.851271]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:14.851442]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:14.851566]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:20.634863]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:20.635012]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:20.635126]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:20.635205]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:44.682107]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:44.682264]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:44.682381]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:44.682462]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:12:45.808304]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:12:45.808471]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:12:45.808587]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:12:45.808664]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:13:03.193875]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:13:03.194030]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:13:03.194144]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:13:03.194224]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:13:04.936071]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:13:04.936230]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:13:04.936346]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:13:04.936425]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:13:31.576959]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:13:31.577118]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:13:31.577232]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:13:31.577311]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:13:34.977098]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:13:34.977252]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:13:34.977369]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:13:34.977447]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:13:35.514631]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:13:35.514774]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:13:35.514893]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:13:35.514979]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:22:18.614712]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-27 00:22:18.615319]mapping table updated -- new key '[u'person5']' added to mapping table from server#3
+INFO:root:[info][2014-11-27 00:22:18.615670]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-27 00:22:18.615830]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-27 00:22:18.652825]:Server #3 Started.
+INFO:root:[INFO][2014-11-27 00:22:37.098557]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:22:37.098735]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:22:37.098820]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:22:37.098961]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:22:37.099082]Syncing-Up Done...
+INFO:root:[info][2014-11-27 00:22:37.100629]mapping table updated -- new key '[u'person2']' added to mapping table from server#3
+INFO:root:[info][2014-11-27 00:22:37.101016]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 00:22:37.101178]Server responding -->  Key/Value Pair {person2/number2} has been added to DB
+INFO:root:[INFO][2014-11-27 00:22:37.101701]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:22:37.457975]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:22:37.458121]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:22:37.458196]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:22:37.458283]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:22:37.458393]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:22:37.470384]Server responding -->  The value of KEY "person1" is number1(by server#1)
+INFO:root:[INFO][2014-11-27 00:22:37.470732]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:22:53.537470]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:22:53.537631]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:22:53.537708]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:22:53.537796]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:22:53.537871]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:22:53.538095]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene5': u'server5', u'person2': 'server3', u'person1': u'server1', u'person5': 'server3', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 00:22:53.538174]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:06.096463]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:06.096610]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:06.096686]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:06.096775]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:06.096847]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:06.096962]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:23:06.097038]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:09.656298]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:09.656443]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:09.656521]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:09.656609]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:09.656683]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:09.656788]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:23:09.656863]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:13.328246]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:13.328394]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:13.328470]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:13.328556]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:13.328631]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:13.328746]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:23:13.328819]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:18.040297]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:18.040448]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:18.040525]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:18.040610]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:18.040708]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:18.040846]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:23:18.040930]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:31.889641]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:31.889822]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:31.889922]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:31.890016]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:31.890092]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:31.890217]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:23:31.890327]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:33.496692]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:33.496862]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:33.496967]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:33.497079]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:33.497154]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:33.497258]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:23:33.497333]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:23:41.885910]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:23:41.886121]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:23:41.886243]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:23:41.886382]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:23:41.886531]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:23:41.886701]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene5': u'server5', u'person2': 'server3', u'person1': u'server1', u'person5': 'server3', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 00:23:41.886798]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:28:24.266281]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:28:24.266437]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:28:24.266515]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:28:24.266603]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:28:24.266677]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:28:24.266785]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:28:24.266861]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:43.972599]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:43.972742]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:43.972820]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:43.972908]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:43.972983]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:43.973087]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:43.973161]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:45.401201]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:45.401340]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:45.401417]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:45.401507]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:45.401584]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:45.401687]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:45.401761]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:51.397438]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:51.397625]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:51.397705]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:51.397791]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:51.397882]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:51.397986]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:51.398060]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:52.042173]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:52.042326]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:52.042401]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:52.042508]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:52.042585]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:52.042731]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:52.042844]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:53.280761]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:53.280896]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:53.280974]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:53.281063]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:53.281143]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:53.281247]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:53.281321]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:55.083016]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:55.083228]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:55.083356]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:55.083503]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:55.083628]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:55.083802]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:55.083930]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:55.670101]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:55.670236]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:55.670311]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:55.670398]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:55.670471]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:55.670575]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:55.670650]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:56.811498]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:56.811650]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:56.811734]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:56.811824]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:56.811899]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:56.812005]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:56.812080]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:57.408292]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:57.408442]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:57.408519]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:57.408606]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:57.408679]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:57.408784]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:57.408876]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:35:59.322393]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:35:59.322557]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:35:59.322634]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:35:59.322721]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:35:59.322794]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:35:59.322898]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:35:59.322971]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:01.101489]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:01.101626]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:01.101705]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:01.101797]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:01.101871]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:01.101975]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:01.102051]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:17.416879]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:17.417065]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:17.417147]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:17.417239]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:17.417317]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:17.417463]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:17.417545]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:18.132035]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:18.132195]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:18.132272]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:18.132360]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:18.132433]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:18.132561]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:18.132637]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:18.887743]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:18.887895]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:18.887973]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:18.888063]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:18.888137]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:18.888244]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:18.888318]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:19.063265]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:19.063452]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:19.063557]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:19.063694]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:19.063779]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:19.063886]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:19.064086]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:19.250915]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:19.251071]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:19.251151]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:19.251241]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:19.251316]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:19.251421]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:19.251497]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:19.340084]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:19.340226]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:19.340303]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:19.340391]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:19.340466]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:19.340616]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:19.340735]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:19.599080]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:19.599235]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:19.599313]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:19.599400]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:19.599474]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:19.599580]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:19.599674]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:38.531003]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:38.531163]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:38.531241]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:38.531328]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:38.531401]Syncing-Up Done...
+INFO:root:[info][2014-11-27 00:36:38.531779]mapping table updated -- new key '[u'person4']' added to mapping table from server#3
+INFO:root:[info][2014-11-27 00:36:38.532051]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 00:36:38.532333]Server responding -->  Key/Value Pair {person4/number4} has been added to DB
+INFO:root:[INFO][2014-11-27 00:36:38.532552]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:38.625591]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:38.625746]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:38.625853]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:38.625947]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:38.626025]Syncing-Up Done...
+INFO:root:[info][2014-11-27 00:36:38.626180]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[info][2014-11-27 00:36:38.626476]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 00:36:38.626563]Server responding -->  Key/Value Pair {person5/number5} has been added to DB
+INFO:root:[INFO][2014-11-27 00:36:38.626910]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:39.377695]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:39.377833]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:39.377908]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:39.377993]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:39.378065]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:36:39.378168]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 00:36:39.378258]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:36:39.564779]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:36:39.564965]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:36:39.565084]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:36:39.565207]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:36:39.565314]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 00:36:39.566048]: mapping table contains key -- '[u'person5']' that does not exist on local DB server#3. Deleted it.
+INFO:root:[info][2014-11-27 00:36:39.566477]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 00:36:39.566705]Server responding -->  Key/Value Pair of KEY {person5} has been purged from DB
+INFO:root:[INFO][2014-11-27 00:36:39.567009]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:41:29.930250]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:41:29.930455]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:41:29.930607]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:41:29.930780]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:41:29.930926]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:41:29.931267]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 00:41:29.931473]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:41:47.300061]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:41:47.300197]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:41:47.300278]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:41:47.300367]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:41:47.300443]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:41:47.300585]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 00:41:47.300676]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:42:37.143221]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:42:37.143385]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:42:37.143463]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:42:37.143552]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:42:37.143625]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:42:37.143766]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene5': u'server5', u'person2': 'server3', u'person1': u'server1', u'person4': 'server3', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 00:42:37.143844]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:42:53.351419]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:42:53.351554]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:42:53.351636]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:42:53.351730]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:42:53.351808]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:42:53.351949]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 00:42:53.352036]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:43:25.224815]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:43:25.224989]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:43:25.225069]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:43:25.225160]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:43:25.225235]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:43:25.225374]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 00:43:25.225479]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:43:27.552213]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:43:27.552351]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:43:27.552443]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:43:27.552537]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:43:27.552611]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:43:27.552748]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 00:43:27.552847]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:43:29.952922]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:43:29.953091]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:43:29.953171]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:43:29.953287]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:43:29.953373]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:43:29.953537]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 00:43:29.953658]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:52:33.116684]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-27 00:52:33.117095]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[info][2014-11-27 00:52:33.117477]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-27 00:52:33.117641]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-27 00:52:33.152601]:Server #3 Started.
+INFO:root:[INFO][2014-11-27 00:52:53.506090]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:52:53.506231]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:52:53.506316]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:52:53.506788]mapping table updated -- new key '[u'person2', u'person4']' added to mapping table from server#3
+INFO:root:[INFO][2014-11-27 00:52:53.507069]Syncing-Up Done...
+INFO:root:[info][2014-11-27 00:52:53.508282]mapping table updated -- new key '[u'person3']' added to mapping table from server#3
+INFO:root:[info][2014-11-27 00:52:53.508667]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 00:52:53.508847]Server responding -->  Key/Value Pair {person3/number3} has been added to DB
+INFO:root:[INFO][2014-11-27 00:52:53.509449]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:52:54.041698]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:52:54.041835]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:52:54.041917]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:52:54.042324]mapping table updated -- new key '[u'person2', u'person3', u'person4']' added to mapping table from server#3
+INFO:root:[INFO][2014-11-27 00:52:54.042611]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:52:54.043277]Server responding -->  The value of KEY "person4" is number4
+INFO:root:[INFO][2014-11-27 00:52:54.043520]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:52:54.311799]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:52:54.311937]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:52:54.312016]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:52:54.312589]mapping table updated -- new key '[u'person3']' added to mapping table from server#3
+INFO:root:[INFO][2014-11-27 00:52:54.312713]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 00:52:54.313445]: mapping table contains key -- '[u'person2']' that does not exist on local DB server#3. Deleted it.
+INFO:root:[info][2014-11-27 00:52:54.313799]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 00:52:54.313962]Server responding -->  Key/Value Pair of KEY {person2} has been purged from DB
+INFO:root:[INFO][2014-11-27 00:52:54.314189]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:52:54.404689]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:52:54.404840]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:52:54.404918]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:52:54.405127]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:52:54.405208]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 00:52:54.405600]: mapping table contains key -- '[u'person3']' that does not exist on local DB server#3. Deleted it.
+INFO:root:[info][2014-11-27 00:52:54.406069]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 00:52:54.406225]Server responding -->  Key/Value Pair of KEY {person3} has been purged from DB
+INFO:root:[INFO][2014-11-27 00:52:54.406435]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:52:54.507535]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:52:54.507688]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:52:54.507784]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:52:54.508012]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:52:54.508094]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 00:52:54.508501]: mapping table contains key -- '[u'person4']' that does not exist on local DB server#3. Deleted it.
+INFO:root:[info][2014-11-27 00:52:54.508917]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 00:52:54.509127]Server responding -->  Key/Value Pair of KEY {person4} has been purged from DB
+INFO:root:[INFO][2014-11-27 00:52:54.509343]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 00:53:40.858466]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:53:40.858605]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:53:40.858684]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:53:40.858884]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:53:40.858967]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 00:54:12.432979]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 00:54:12.433118]Request coming from Client:
+INFO:root:[INFO][2014-11-27 00:54:12.433198]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 00:54:12.433403]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 00:54:12.433485]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:25:02.110284]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-27 01:25:02.110751]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[info][2014-11-27 01:25:02.111090]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-27 01:25:02.111305]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-27 01:25:02.149232]:Server #3 Started.
+INFO:root:[INFO][2014-11-27 01:25:47.930240]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:25:47.930401]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:25:47.930486]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:25:47.930737]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:25:47.930818]Syncing-Up Done...
+INFO:root:[info][2014-11-27 01:25:47.931787]mapping table updated -- new key '[u'person1']' added to mapping table from server#3
+INFO:root:[info][2014-11-27 01:25:47.932607]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 01:25:47.932775]Server responding -->  Key/Value Pair {person1/number1} has been added to DB
+INFO:root:[INFO][2014-11-27 01:25:47.933250]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:25:48.026622]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:25:48.026782]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:25:48.026879]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:25:48.027111]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:25:48.027193]Syncing-Up Done...
+INFO:root:[info][2014-11-27 01:25:48.027558]mapping table updated -- new key '[u'person2']' added to mapping table from server#3
+INFO:root:[info][2014-11-27 01:25:48.028084]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 01:25:48.028279]Server responding -->  Key/Value Pair {person2/number2} has been added to DB
+INFO:root:[INFO][2014-11-27 01:25:48.028549]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:25:48.433237]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:25:48.433398]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:25:48.433475]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:25:48.433886]mapping table updated -- new key '[u'person2']' added to mapping table from server#3
+INFO:root:[INFO][2014-11-27 01:25:48.434173]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:25:48.434786]Server responding -->  The value of KEY "person1" is number1
+INFO:root:[INFO][2014-11-27 01:25:48.435066]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:25:48.547873]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:25:48.548051]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:25:48.548153]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:25:48.548405]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:25:48.548507]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:25:48.548694]Server responding -->  The value of KEY "person2" is number2
+INFO:root:[INFO][2014-11-27 01:25:48.548811]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:25:48.920519]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:25:48.920701]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:25:48.920805]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:25:48.921188]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:25:48.921289]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 01:25:48.922018]: mapping table contains key -- '[u'person1']' that does not exist on local DB server#3. Deleted it.
+INFO:root:[info][2014-11-27 01:25:48.922364]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 01:25:49.021102]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:25:49.021241]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:25:49.021318]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:25:49.021520]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:25:49.021601]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 01:25:49.021964]: mapping table contains key -- '[u'person2']' that does not exist on local DB server#3. Deleted it.
+INFO:root:[info][2014-11-27 01:25:49.022412]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 01:31:41.722206]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-27 01:31:41.722605]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[info][2014-11-27 01:31:41.722967]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-27 01:31:41.723162]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-27 01:31:41.758546]:Server #3 Started.
+INFO:root:[INFO][2014-11-27 01:32:35.323570]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:35.323724]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:35.323807]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:35.324057]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:32:35.324138]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:32:35.337647]Server responding -->  The value of KEY "person4" is number4(by server#4)
+INFO:root:[INFO][2014-11-27 01:32:35.338000]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:35.436448]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:35.436601]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:35.436680]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:35.436889]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:32:35.436971]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:32:35.442564]Server responding -->  The value of KEY "person5" is number5(by server#1)
+INFO:root:[INFO][2014-11-27 01:32:35.442866]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:35.541903]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:35.542054]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:35.542150]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:35.542363]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:32:35.542446]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:32:35.549255]Server responding -->  Key/Value Pair of KEY {person1} has been purged from DB(by server#4)
+INFO:root:[INFO][2014-11-27 01:32:35.549523]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:32:35.744591]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:32:35.744820]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:32:35.744988]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:32:35.745242]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:32:35.745330]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:32:35.752614]Server responding -->  Key/Value Pair of KEY {person3} has been purged from DB(by server#5)
+INFO:root:[INFO][2014-11-27 01:32:35.752992]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:33:38.332077]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:33:38.332246]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:33:38.332326]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:33:38.332529]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:33:38.332608]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:33:38.332936]Server responding -->  Ditributed Databases status: {u'Weihan5': u'server5', u'Weihan4': u'server4', u'Weihan1': u'server1', u'Weihan3': u'server3', u'Weihan2': u'server2', u'Jaylene2': u'server2', u'Jaylene3': u'server3', u'Jaylene1': u'server1', u'Jaylene4': u'server4', u'Jaylene5': u'server5', u'person2': u'server1', u'Test': u'server2'}
+INFO:root:[INFO][2014-11-27 01:33:38.333016]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:33:47.422249]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:33:47.422404]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:33:47.422481]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:33:47.422682]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:33:47.422762]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:33:47.422879]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 01:33:47.422958]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:34:00.622420]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:34:00.622565]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:34:00.622643]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:34:00.622885]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:34:00.622996]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:34:00.623113]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 01:34:00.623207]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:58:02.859191]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-27 01:58:02.859581]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[info][2014-11-27 01:58:02.859879]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-27 01:58:02.860100]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-27 01:58:02.895575]:Server #3 Started.
+INFO:root:[INFO][2014-11-27 01:58:27.682399]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:58:27.682556]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:58:27.682639]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:58:27.682889]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:58:27.682971]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:58:27.683506]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 01:58:27.683594]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 01:58:27.960892]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 01:58:27.961036]Request coming from Client:
+INFO:root:[INFO][2014-11-27 01:58:27.961115]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 01:58:27.961320]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 01:58:27.961491]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 01:58:27.961820]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 01:58:27.961904]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:02:17.790733]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:02:17.790925]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:02:17.791029]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:02:17.791299]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:02:17.791407]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:02:17.791554]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:02:17.791662]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:02:18.073206]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:02:18.073361]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:02:18.073458]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:02:18.073774]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:02:18.073898]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:02:18.074049]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:02:18.074162]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:02:18.260520]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:02:18.260657]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:02:18.260733]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:02:18.260933]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:02:18.261016]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:02:18.261127]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:02:18.261205]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:02:18.354195]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:02:18.354388]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:02:18.354498]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:02:18.354776]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:02:18.354921]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:02:18.355081]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:02:18.355198]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:02:18.538762]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:02:18.538915]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:02:18.538993]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:02:18.539189]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:02:18.539269]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:02:18.539382]Server responding -->  The Key you entered is not in any DB of the servers. Please check by using 'QUERY' command
+INFO:root:[INFO][2014-11-27 02:02:18.539470]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:02:24.203141]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:02:24.203298]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:02:24.203381]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:02:24.203667]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:02:24.203778]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:02:24.204263]Server responding -->  local DB status: {'Jaylene3': '2533550659', 'Weihan3': '2065197252'}
+INFO:root:[INFO][2014-11-27 02:02:24.204349]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:17:19.701949]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-27 02:17:19.702375]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[info][2014-11-27 02:17:19.702750]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-27 02:17:19.702915]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-27 02:17:19.738672]:Server #3 Started.
+INFO:root:[INFO][2014-11-27 02:17:28.537138]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:17:28.537276]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:17:28.537361]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:17:28.537602]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:17:28.537681]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:42:44.568597]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-27 02:42:44.568987]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[info][2014-11-27 02:42:44.569304]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-27 02:42:44.569478]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-27 02:42:44.605225]:Server #3 Started.
+INFO:root:[INFO][2014-11-27 02:42:54.820462]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:42:54.820598]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:42:54.820682]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:42:54.820931]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:42:54.821013]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:42:54.831834]Server responding -->  The value of KEY "person4" is number4(by server#1)
+INFO:root:[INFO][2014-11-27 02:42:54.832051]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:42:55.019671]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:42:55.019836]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:42:55.019915]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:42:55.020121]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:42:55.020201]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:42:55.026446]Server responding -->  Key/Value Pair of KEY {person1} has been purged from DB(by server#5)
+INFO:root:[INFO][2014-11-27 02:42:55.026694]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:42:55.117511]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:42:55.117666]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:42:55.117744]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:42:55.117952]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:42:55.118034]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:42:55.124308]Server responding -->  Key/Value Pair of KEY {person2} has been purged from DB(by server#1)
+INFO:root:[INFO][2014-11-27 02:42:55.124601]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:42:55.307819]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:42:55.307970]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:42:55.308048]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:42:55.308256]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:42:55.308336]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:42:55.314587]Server responding -->  Key/Value Pair of KEY {person4} has been purged from DB(by server#1)
+INFO:root:[INFO][2014-11-27 02:42:55.314829]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:42:55.404693]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:42:55.404847]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:42:55.404923]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:42:55.405145]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:42:55.405224]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:42:55.411443]Server responding -->  Key/Value Pair of KEY {person5} has been purged from DB(by server#2)
+INFO:root:[INFO][2014-11-27 02:42:55.411676]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:24.556043]:local DB loaded onto Memory on server#3.
+INFO:root:[info][2014-11-27 02:45:24.556453]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[info][2014-11-27 02:45:24.556898]Local disk DB updated with DB on memory on server#3.
+INFO:root:[info][2014-11-27 02:45:24.557107]:Name space 'server_no3.tcss558' assigned to server#3.
+INFO:root:[2014-11-27 02:45:24.594965]:Server #3 Started.
+INFO:root:[INFO][2014-11-27 02:45:36.543804]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:36.543944]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:36.544031]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:36.544287]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:36.544370]Syncing-Up Done...
+INFO:root:[info][2014-11-27 02:45:36.545600]mapping table updated -- new key '[u'person3']' added to mapping table from server#3
+INFO:root:[info][2014-11-27 02:45:36.546236]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 02:45:36.546384]Server responding -->  Key/Value Pair {person3/number3} has been added to DB
+INFO:root:[INFO][2014-11-27 02:45:36.546795]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:37.022407]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:37.022561]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:37.022638]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:37.022842]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:37.022922]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:45:37.023301]Server responding -->  The value of KEY "person3" is number3
+INFO:root:[INFO][2014-11-27 02:45:37.023392]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:37.394870]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:37.395021]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:37.395220]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:37.395457]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:37.395538]Syncing-Up Done...
+INFO:root:[INFO][2014-11-27 02:45:37.407441]Server responding -->  Key/Value Pair of KEY {person2} has been purged from DB(<-- server#5)
+INFO:root:[INFO][2014-11-27 02:45:37.407764]+++++++++ this request session completes ++++++++
+INFO:root:[INFO][2014-11-27 02:45:37.508607]:+++++++++ new requesting coming in ++++++++.
+INFO:root:[INFO][2014-11-27 02:45:37.508759]Request coming from Client:
+INFO:root:[INFO][2014-11-27 02:45:37.508837]Syncing-Up the mapping table...
+INFO:root:[info][2014-11-27 02:45:37.509044]SELF_TEST: DB on server#3 synced up with mapping table
+INFO:root:[INFO][2014-11-27 02:45:37.509161]Syncing-Up Done...
+INFO:root:[WARNING][2014-11-27 02:45:37.509657]: mapping table contains key -- '[u'person3']' that does not exist on local DB server#3. Deleted it.
+INFO:root:[info][2014-11-27 02:45:37.510091]Local disk DB updated with DB on memory on server#3.
+INFO:root:[INFO][2014-11-27 02:45:37.510248]Server responding -->  Key/Value Pair of KEY {person3} has been purged from DB
+INFO:root:[INFO][2014-11-27 02:45:37.510422]+++++++++ this request session completes ++++++++
